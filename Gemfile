@@ -32,6 +32,11 @@ group :doc do
   gem 'sdoc', require: false
 end
 
+gem "active_model_serializers"
+
+gem 'd3_rails'
+gem 'topojson-rails'
+
 # Use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.1.2'
 
